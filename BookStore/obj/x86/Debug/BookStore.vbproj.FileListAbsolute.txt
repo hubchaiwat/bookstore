@@ -1,0 +1,73 @@
+C:\Users\Home\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Home\Desktop\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Home\Desktop\BookStore\BookStore\bin\Debug\BookStore.xml
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormMain.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.Resources.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.exe
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.xml
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.xml
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.xml
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.FormMain.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.FormStoreDetail.resources
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\BookStore.exe
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\BookStore.xml
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\BookStore.pdb
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\bin\Debug\BookStore.xml
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\BookStore.FormMain.resources
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\BookStore.FormStoreDetail.resources
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\BookStore.Resources.resources
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nattaporn.sawa\Desktop\SA_Work\SA\BookStore\BookStore\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.exe
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.xml
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.pdb
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\bin\Debug\BookStore.xml
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.FormMain.resources
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.FormStoreDetail.resources
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.Resources.resources
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.FormAbout.resources
+D:\Home\Documents\Visual Studio 2010\Projects\BookStore\BookStore\obj\x86\Debug\BookStore.Resource1.resources
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.exe
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.xml
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.pdb
+C:\Users\Tester\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Tester\Desktop\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Tester\Desktop\BookStore\BookStore\bin\Debug\BookStore.xml
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormAbout.resources
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormMain.resources
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormStoreDetail.resources
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.Resources.resources
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.Resource1.resources
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormCirMonth.resources
+C:\Users\Tester\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormCirYear.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormAbout.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormStoreDetail.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.Resource1.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormReportOver.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormCirMonth.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormCirYear.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormAmountYear.resources
+C:\Users\Home\Desktop\BookStore\BookStore\obj\x86\Debug\BookStore.FormAmountMonth.resources
